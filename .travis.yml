@@ -11,4 +11,4 @@ before_install:
 - tar -xzf credentials.tar.gz
 - gcloud auth activate-service-account --key-file client-secret.json
 script:
-- gsutil rsync -d -r files/preprints-assets gs://io-osf-staging-static
+- gsutil rsync -d -r files gs://io-osf-staging-static
