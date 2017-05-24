@@ -96,7 +96,7 @@ a,
 
 .search-header .share-logo {
 
-  background-image: url("../share-logo-white.png"); }
+  background-image: url("/share-logo-white.png"); }
 
 /* This needs to be in every style.css to have discover page show right logo */
 .provider-brand {
