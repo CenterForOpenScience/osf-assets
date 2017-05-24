@@ -98,3 +98,8 @@ a,
   .preprint-advisory a:not(.btn) {
     color: #3F6AC8;
 }
+
+/* This needs to be in every style.css to have discover page show right logo */
+.provider-brand {
+    background-image: url('./wide_color.png');
+}
