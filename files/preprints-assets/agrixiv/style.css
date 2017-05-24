@@ -94,3 +94,7 @@ a,
   .preprint-advisory a:not(.btn) {
     color: white;
 }
+
+.provider-brand {
+    background-image: url('./wide_color.png');
+}
