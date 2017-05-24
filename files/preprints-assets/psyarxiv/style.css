@@ -108,4 +108,7 @@
 #view-page .osf-box-lt .fa {
   color: #CF1D35; }
 
-/*# sourceMappingURL=psyarxiv.css.map */
+/* This needs to be in every style.css to have discover page show right logo */
+.provider-brand {
+    background-image: url('./wide_color.png');
+}
