@@ -96,9 +96,7 @@ a,
 }
 
 .search-header .share-logo {
-  width: 48px;
-  height: 30px;
-  background-image: url("../../img/share-logo-white.png"); }
+  background-image: url("preprints/assets/img/share-logo-white.png"); }
 
 /* This needs to be in every style.css to have discover page show right logo */
 .provider-brand {
