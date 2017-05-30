@@ -32,8 +32,8 @@
 .preprint-navbar .nav > li.open > a:hover,
 .preprint-navbar .nav > li.open > a:focus:not(.active):hover,
 .preprint-navbar .nav > li > a:focus:not(.active):hover {
-  background-color: white;
-  color: black; }
+  background-color: #7EA9B1;
+  color: white; }
 
 #preprint-form-subjects .subject,
 #preprint-form-subjects .subject > .fa,
@@ -61,7 +61,7 @@
   border-left-color: #062F4F; }
 
 .dropdown-menu > li > a:hover {
-  color: #062F4F; }
+  color: #7EA9B1; }
 
 .subject-item > .btn-primary {
   color: white;
@@ -84,9 +84,15 @@
   background: #062F4F;
   color: white; }
 
-.subject-filter,
-.subject-filter .fa {
-  background-color: #216C79; }
+  .subject-filter,
+  .subject-filter .fa {
+    background-color: #216C79; }
+    
+    .preprint-error-page a:not(.btn),
+    .preprint-advisory a:not(.btn) {
+      color: #7EA9B1;
+      font-weight: 700;
+    }
 
 .search-header .share-logo {
   background-image: url("/share-logo-white.png"); }
