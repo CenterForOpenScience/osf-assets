@@ -34,8 +34,8 @@ a,
 .preprint-navbar .nav > li.open > a:hover,
 .preprint-navbar .nav > li.open > a:focus:not(.active):hover,
 .preprint-navbar .nav > li > a:focus:not(.active):hover {
-  background-color: white;
-  color: black; }
+  background-color: #3e7553;
+  color: white; }
 
 #preprint-form-subjects .subject,
 #preprint-form-subjects .subject > .fa,
@@ -63,7 +63,7 @@ a,
   border-left-color: #E7F7E1; }
 
 .dropdown-menu > li > a:hover {
-  color: #E7F7E1; }
+  color: #3e7553; }
 
 .subject-item > .btn-primary {
   color: black;
@@ -92,10 +92,11 @@ a,
 
   .preprint-error-page a:not(.btn),
   .preprint-advisory a:not(.btn) {
-    color: white;
+    color: #3e7553;
 }
 
 /* This needs to be in every style.css to have discover page show right logo */
 .provider-brand {
     background-image: url('./wide_color.png');
 }
+
