@@ -92,7 +92,7 @@
 
   .preprint-error-page a:not(.btn),
   .preprint-advisory a:not(.btn) {
-    color: #8966a0;
+    color: #ffa34a;
 }
 
 /* This needs to be in every style.css to have discover page show right logo */
