@@ -12,4 +12,4 @@ before_install:
 - gcloud auth activate-service-account --key-file client-secret.json
 script:
 - gsutil rsync -d -r files gs://io-osf-staging-static
-- gcloud compute url-maps invalidate-cdn-cache io-osf-staging-static --path "/preprints-assets/*"
+- gcloud compute --project "cos-staging" url-maps invalidate-cdn-cache io-osf-staging-static --path "/preprints-assets/*"
