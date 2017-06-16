@@ -30,6 +30,13 @@ a,
 .preprint-navbar a.navbar-brand {
     color: #5d5f60;
 }
+
+/*    OR
+
+.preprint-navbar a.navbar-brand {
+    color: #000000;
+}
+
 /**/
 
 
