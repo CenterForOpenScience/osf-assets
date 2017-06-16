@@ -18,7 +18,7 @@ a,
 .preprint-advisory a:not(.btn) {
     color: #5d5f60;
 }
-        OR
+/*        OR
 .preprint-subjects {
     background-color: white;
 }
@@ -26,15 +26,9 @@ a,
 
 
 
-
 /*// NAVBAR TITLE COLOR */
 .preprint-navbar a.navbar-brand {
     color: #5d5f60;
-}
-    OR
-
-.preprint-navbar a.navbar-brand {
-    color: #000000;
 }
 /**/
 
@@ -46,7 +40,7 @@ a,
 .search-header .share-logo {
     background-image: url('/share-logo-white.png');
 }
-    OR
+/*    OR */
 /*// DONT USE WHITE SHARE LOGO*/
 /*nothing*/
 
