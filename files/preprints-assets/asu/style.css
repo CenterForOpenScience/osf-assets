@@ -1,0 +1,172 @@
+/*  VARIABLES
+HEADER_COLOR: header backgrounds, hover backgrounds
+TEXT_COLOR: text color mostly, usually white or black
+NAVBAR_COLOR: navbar color, preferably a dark color
+LINK_COLOR: used in link colors
+CONTRAST_COLOR:; text color that contrasts with TEXT_COLOR, usually black or white
+*/
+
+
+
+
+/*/// SUBMIT PREPRINT SECTION TITLES */
+a,
+.preprint-form-section header {
+    color: #5d5f60;
+}
+.preprint-error-page a:not(.btn),
+.preprint-advisory a:not(.btn) {
+    color: #5d5f60;
+}
+        OR
+.preprint-subjects {
+    background-color: white;
+}
+/**/
+
+
+
+
+/*// NAVBAR TITLE COLOR */
+.preprint-navbar a.navbar-brand {
+    color: #5d5f60;
+}
+    OR
+
+.preprint-navbar a.navbar-brand {
+    color: #000000;
+}
+/**/
+
+
+
+
+
+/*/// USE WHITE SHARE LOGO*/
+.search-header .share-logo {
+    background-image: url('/share-logo-white.png');
+}
+    OR
+/*// DONT USE WHITE SHARE LOGO*/
+/*nothing*/
+
+
+
+/* Find and replace all 5 variables
+*/
+
+.preprint-header {
+    background-color: #e3e4e5;
+    color: #000000;
+
+    a:not(.btn) {
+        color: #000000;
+    }
+}
+
+.preprint-navbar {
+    &,
+    .nav > li > a.active {
+        background-color: #5d5f60;
+        color: #000000;
+    }
+
+    .navbar-toggle .icon-bar {
+         background-color: #000000;
+    }
+    a {
+        color: #000000;
+    }
+
+    .navbar-brand:hover,
+    .nav > li > a:hover {
+        background-color: #5d5f60;
+    }
+
+    .nav > li.open,
+    .nav > li.open > a,
+    .nav > li.open > a:hover,
+    .nav > li.open > a:focus:not(.active):hover,
+    .nav > li > a:focus:not(.active):hover {
+        background-color: #5d5f60;
+        color: #ffffff;
+    }
+}
+
+#preprint-form-subjects {
+    .subject,
+    .subject > .fa,
+    ul li.selected,
+    ul li:active {
+        background-color: #5d5f60;
+        color: #000000;
+    }
+
+    .subject:hover,
+    .subject:hover > .fa,
+    ul li:hover {
+        background-color: #e3e4e5;
+        color: #000000;
+    }
+
+    .subject {
+        b:after {
+            border-left-color: #5d5f60;
+        }
+
+        &:hover > b:after {
+            border-left-color: #e3e4e5;
+        }
+        .right-arrow:before {
+            border-left: 1.4rem solid #5d5f60;
+        }
+        &:hover {
+            .right-arrow:before {
+                border-left-color: #e3e4e5;
+            }
+        }
+    }
+}
+
+.dropdown-menu > li > a:hover {
+    color: #e3e4e5;
+}
+
+.subject-item > .btn-primary {
+    color: #000000;
+    background-color: #5d5f60;
+    border-color: #e3e4e5;
+}
+
+.subject-item > .btn-primary:hover {
+    background-color: #e3e4e5;
+    border-color: #5d5f60;
+}
+
+.preprint-filter {
+    &,
+    .fa {
+        color: #000000;
+    }
+}
+
+.preprint-error-page,
+.preprint-advisory,
+.preprint-submit-header,
+.search-header,
+.provider-filter {
+    background: #e3e4e5;
+    color: #000000;
+}
+
+.subject-filter {
+    &,
+    .fa {
+        background-color: #5d5f60;
+    }
+}
+
+/* This needs to be in every style.css to have discover page show right logo */
+.provider-brand {
+    background-image: url('./wide_color.png');
+}
