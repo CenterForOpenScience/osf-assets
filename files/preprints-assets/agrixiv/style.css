@@ -18,9 +18,13 @@ a,
 .preprint-navbar .navbar-toggle .icon-bar {
   background-color: black; }
 
-.preprint-navbar a {
-  color: black; }
-
+.preprint-navbar a,
+.preprint-navbar button,
+.preprint-navbar a:hover,
+.preprint-navbar button:hover
+{
+	color: black; }
+	
 .preprint-navbar a.navbar-brand {
   color: black; }
 
