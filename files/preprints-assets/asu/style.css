@@ -100,4 +100,6 @@ a,
     background-image: url('./wide_color.png');
 }
 
+.search-header .share-logo {
+  background-image: url("./powered_by_share.png"); }
 
