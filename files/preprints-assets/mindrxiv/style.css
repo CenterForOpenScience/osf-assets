@@ -10,9 +10,6 @@ a,
   .preprint-header a:not(.btn) {
     color: white; }
 
-.search-header .share-logo {
-    background-image: url('/share-logo-white.png'); }
-
 .preprint-navbar,
 .preprint-navbar .nav > li > a.active {
   background-color: #A2224B ;
@@ -102,3 +99,6 @@ a,
 .provider-brand {
     background-image: url('./wide_color.png');
 }
+
+.search-header .share-logo {
+  background-image: url("./powered_by_share.png"); }
