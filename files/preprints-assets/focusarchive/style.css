@@ -179,3 +179,6 @@ a,
         color: white;
     }
 }
+
+.search-header .share-logo {
+  background-image: url("./powered_by_share.png"); }
