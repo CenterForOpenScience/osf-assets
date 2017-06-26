@@ -94,8 +94,6 @@
       font-weight: 700;
     }
 
-.search-header .share-logo {
-  background-image: url("/share-logo-white.png"); }
 
 .alert-maintenance {
   margin-top: 52px; }
@@ -116,3 +114,6 @@
 .provider-brand {
     background-image: url('./wide_color.png');
 }
+
+.search-header .share-logo {
+  background-image: url("./powered_by_share.png"); }
