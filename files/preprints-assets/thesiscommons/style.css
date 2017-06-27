@@ -26,7 +26,7 @@ a,
 
 .preprint-navbar .navbar-brand:hover,
 .preprint-navbar .nav > li > a:hover {
-  background-color: #94918e  ;
+  background-color: #821e1e  ;
 }
 
 .preprint-navbar .nav > li.open,
@@ -34,7 +34,7 @@ a,
 .preprint-navbar .nav > li.open > a:hover,
 .preprint-navbar .nav > li.open > a:focus:not(.active):hover,
 .preprint-navbar .nav > li > a:focus:not(.active):hover {
-  background-color: #821e1e;
+  background-color: #94918e;
   color: black; }
 
 #preprint-form-subjects .subject,
