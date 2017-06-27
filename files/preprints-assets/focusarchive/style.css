@@ -1,6 +1,6 @@
 a,
 .preprint-form-section header {
-  color: #04506f; }
+  color: #598ca1; }
 
 .preprint-header {
   background-color: #dad9d0;
@@ -12,8 +12,8 @@ a,
 
 .preprint-navbar,
 .preprint-navbar .nav > li > a.active {
-  background-color: #04506f;
-  color: black; }
+  background-color: #598ca1;
+  color: white; }
 
 .preprint-navbar .navbar-toggle .icon-bar {
   background-color: black; }
@@ -23,14 +23,14 @@ a,
 .preprint-navbar a:hover,
 .preprint-navbar button:hover
 {
-	color: black; }
+	color: white; }
 	
 .preprint-navbar a.navbar-brand {
-  color: black; }
+  color: white; }
 
 .preprint-navbar .navbar-brand:hover,
 .preprint-navbar .nav > li > a:hover {
-  background-color: #04506f;
+  background-color: #598ca1;
 }
 
 .preprint-navbar .nav > li.open,
@@ -45,8 +45,8 @@ a,
 #preprint-form-subjects .subject > .fa,
 #preprint-form-subjects ul li.selected,
 #preprint-form-subjects ul li:active {
-  background-color: #04506f;
-  color: black; }
+  background-color: #598ca1;
+  color: white; }
 
 #preprint-form-subjects .subject:hover,
 #preprint-form-subjects .subject:hover > .fa,
@@ -55,13 +55,13 @@ a,
   color: black; }
 
 #preprint-form-subjects .subject b:after {
-  border-left-color: #04506f; }
+  border-left-color: #598ca1; }
 
 #preprint-form-subjects .subject:hover > b:after {
   border-left-color: #dad9d0; }
 
 #preprint-form-subjects .subject .right-arrow:before {
-  border-left: 1.4rem solid #04506f; }
+  border-left: 1.4rem solid #598ca1; }
 
 #preprint-form-subjects .subject:hover .right-arrow:before {
   border-left-color: #dad9d0; }
@@ -70,13 +70,14 @@ a,
   color: #dad9d0; }
 
 .subject-item > .btn-primary {
-  color: black;
-  background-color: #04506f;
+  color: white;
+  background-color: #598ca1;
   border-color: #dad9d0; }
 
 .subject-item > .btn-primary:hover {
+  color: black;
   background-color: #dad9d0;
-  border-color: #04506f; }
+  border-color: #598ca1; }
 
 .preprint-filter,
 .preprint-filter .fa {
@@ -92,7 +93,8 @@ a,
 
 .subject-filter,
 .subject-filter .fa {
-  background-color: #04506f; }
+  color: white;
+  background-color: #598ca1; }
 
   .preprint-error-page a:not(.btn),
   .preprint-advisory a:not(.btn) {
