@@ -1,9 +1,9 @@
 a,
 .preprint-form-section header {
-  color: #808080; }
+  color: #FFFFFF; }
 
 .preprint-header {
-  background-color: #FFFFFF;
+  background-color: #808080;
   color: white;
 }
   .preprint-header a:not(.btn) {
@@ -11,7 +11,7 @@ a,
 
 .preprint-navbar,
 .preprint-navbar .nav > li > a.active {
-  background-color: #808080;
+  background-color: #FFFFFF;
   color: white; }
 
 .preprint-navbar .navbar-toggle .icon-bar {
@@ -25,7 +25,7 @@ a,
 
 .preprint-navbar .navbar-brand:hover,
 .preprint-navbar .nav > li > a:hover {
-  background-color: #808080;
+  background-color: #FFFFFF;
 }
 
 .preprint-navbar .nav > li.open,
