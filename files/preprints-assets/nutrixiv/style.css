@@ -1,31 +1,31 @@
 a,
 .preprint-form-section header {
-  color: #FFFFFF; }
+  color: #808080; }
 
 .preprint-header {
-  background-color: #808080;
+  background-color: #FFFFFF;
   color: white;
 }
   .preprint-header a:not(.btn) {
-    color: black; }
+    color: white; }
 
 .preprint-navbar,
 .preprint-navbar .nav > li > a.active {
-  background-color: #FFFFFF;
-  color: black; }
+  background-color: #808080;
+  color: white; }
 
 .preprint-navbar .navbar-toggle .icon-bar {
   background-color: white; }
 
 .preprint-navbar a {
-  color: black; }
+  color: white; }
 
 .preprint-navbar a.navbar-brand {
-  color: #000000; }
+  color: white; }
 
 .preprint-navbar .navbar-brand:hover,
 .preprint-navbar .nav > li > a:hover {
-  background-color: #000000;
+  background-color: #808080;
 }
 
 .preprint-navbar .nav > li.open,
