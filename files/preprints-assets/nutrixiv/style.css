@@ -7,7 +7,7 @@ a,
   color: white;
 }
   .preprint-header a:not(.btn) {
-    color: white; }
+    color: black; }
 
 .preprint-navbar,
 .preprint-navbar .nav > li > a.active {
