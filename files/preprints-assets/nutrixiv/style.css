@@ -12,7 +12,7 @@ a,
 .preprint-navbar,
 .preprint-navbar .nav > li > a.active {
   background-color: #FFFFFF;
-  color: white; }
+  color: black; }
 
 .preprint-navbar .navbar-toggle .icon-bar {
   background-color: white; }
