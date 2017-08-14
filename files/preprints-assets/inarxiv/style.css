@@ -1,9 +1,9 @@
 a,
 .preprint-form-section header {
-  color: #222F38; }
+  color: #516670; }
 
 .preprint-header {
-  background-color: #637074;
+  background-color: #1b4656;
   color: white;
 }
   .preprint-header a:not(.btn) {
@@ -11,7 +11,7 @@ a,
 
 .preprint-navbar,
 .preprint-navbar .nav > li > a.active {
-  background-color: #222F38;
+  background-color: #516670;
   color: white; }
 
 .preprint-navbar .navbar-toggle .icon-bar {
@@ -25,7 +25,7 @@ a,
 
 .preprint-navbar .navbar-brand:hover,
 .preprint-navbar .nav > li > a:hover {
-  background-color: #222F38;
+  background-color: #516670;
 }
 
 .preprint-navbar .nav > li.open,
@@ -40,38 +40,38 @@ a,
 #preprint-form-subjects .subject > .fa,
 #preprint-form-subjects ul li.selected,
 #preprint-form-subjects ul li:active {
-  background-color: #222F38;
+  background-color: #516670;
   color: white; }
 
 #preprint-form-subjects .subject:hover,
 #preprint-form-subjects .subject:hover > .fa,
 #preprint-form-subjects ul li:hover {
-  background-color: #637074;
+  background-color: #1b4656;
   color: white; }
 
 #preprint-form-subjects .subject b:after {
-  border-left-color: #222F38; }
+  border-left-color: #516670; }
 
 #preprint-form-subjects .subject:hover > b:after {
-  border-left-color: #637074; }
+  border-left-color: #1b4656; }
 
 #preprint-form-subjects .subject .right-arrow:before {
-  border-left: 1.4rem solid #222F38; }
+  border-left: 1.4rem solid #516670; }
 
 #preprint-form-subjects .subject:hover .right-arrow:before {
-  border-left-color: #637074; }
+  border-left-color: #1b4656; }
 
 .dropdown-menu > li > a:hover {
-  color: #637074; }
+  color: #1b4656; }
 
 .subject-item > .btn-primary {
   color: white;
-  background-color: #222F38;
-  border-color: #637074; }
+  background-color: #516670;
+  border-color: #1b4656; }
 
 .subject-item > .btn-primary:hover {
-  background-color: #637074;
-  border-color: #222F38; }
+  background-color: #1b4656;
+  border-color: #516670; }
 
 .preprint-filter,
 .preprint-filter .fa {
@@ -82,12 +82,12 @@ a,
 .preprint-submit-header,
 .search-header,
 .provider-filter {
-  background: #637074;
+  background: #1b4656;
   color: white; }
 
 .subject-filter,
 .subject-filter .fa {
-  background-color: #222F38; }
+  background-color: #516670; }
 
   .preprint-error-page a:not(.btn),
   .preprint-advisory a:not(.btn) {
@@ -101,3 +101,4 @@ a,
 
 .search-header .share-logo {
   background-image: url("./powered_by_share.png"); }
+
