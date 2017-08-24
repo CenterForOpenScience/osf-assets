@@ -100,9 +100,9 @@ a,
 
 /* This needs to be in every style.css to have discover page show right logo */
 .provider-brand {
-    background-image: url('./wide_color-5530ca7ee4ce463bc90f8bb63b4c46bc9e6b0521.png');
+    background-image: url('./wide_color.png');
 }
 
 .search-header .share-logo {
-  background-image: url("./powered_by_share-5530ca7ee4ce463bc90f8bb63b4c46bc9e6b0521.png"); }
+  background-image: url("./powered_by_share.png"); }
 
