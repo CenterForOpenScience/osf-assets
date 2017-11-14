@@ -66,11 +66,12 @@ a,
   color: #e3e4e5; }
 
 .subject-item > .btn-primary {
-  color: black;
+  color: white;
   background-color: #5d5f60;
   border-color: #e3e4e5; }
 
 .subject-item > .btn-primary:hover {
+  color: black;
   background-color: #e3e4e5;
   border-color: #5d5f60; }
 
