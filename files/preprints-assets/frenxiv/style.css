@@ -106,3 +106,7 @@ a,
 
 .search-header .share-logo {
   background-image: url("./powered_by_share.png"); }
+  
+  .preprint-header .lead {
+  color: #000000
+}
