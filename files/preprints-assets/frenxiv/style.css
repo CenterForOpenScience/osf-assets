@@ -4,26 +4,26 @@ a,
 
 .preprint-header {
   background-color: #e4ede8;
-  color: #000000;
+  color: #ffffff;
 }
   .preprint-header a:not(.btn) {
-    color: #000000; }
+    color: #ffffff; }
 
 
 .preprint-navbar,
 .preprint-navbar .nav > li > a.active {
   background-color: #ad4545;
-  color: #000000; }
+  color: #ffffff; }
 
 .preprint-navbar .navbar-toggle .icon-bar {
-  background-color: #000000; }
+  background-color: #ffffff; }
 
 .preprint-navbar a,
 .preprint-navbar button,
 .preprint-navbar a:hover,
 .preprint-navbar button:hover
 {
-    color: #000000; }
+    color: #ffffff; }
 
 .preprint-navbar a.navbar-brand {
   color: #ffffff; }
@@ -38,7 +38,7 @@ a,
 .preprint-navbar .nav > li.open > a:hover,
 .preprint-navbar .nav > li.open > a:focus:not(.active):hover,
 .preprint-navbar .nav > li > a:focus:not(.active):hover {
-  background-color: #ffffff;
+  background-color: #ad4545;
   color: white; }
 
 #preprint-form-subjects .subject,
@@ -52,7 +52,7 @@ a,
 #preprint-form-subjects .subject:hover > .fa,
 #preprint-form-subjects ul li:hover {
   background-color: #e4ede8;
-  color: #000000; }
+  color: #ffffff; }
 
 #preprint-form-subjects .subject b:after {
   border-left-color: #ad4545; }
@@ -70,7 +70,7 @@ a,
   color: #ffffff; }
 
 .subject-item > .btn-primary {
-  color: #000000;
+  color: #ffffff;
   background-color: #ad4545;
   border-color: #e4ede8; }
 
@@ -80,7 +80,7 @@ a,
 
 .preprint-filter,
 .preprint-filter .fa {
-  color: #000000; }
+  color: #ffffff; }
 
 .preprint-error-page,
 .preprint-advisory,
@@ -88,7 +88,7 @@ a,
 .search-header,
 .provider-filter {
   background: #e4ede8;
-  color: #000000; }
+  color: #ffffff; }
 
 .subject-filter,
 .subject-filter .fa {
@@ -96,7 +96,7 @@ a,
 
   .preprint-error-page a:not(.btn),
   .preprint-advisory a:not(.btn) {
-    color: #ffffff;
+    color: #ad4545;
 }
 
 /* This needs to be in every style.css to have discover page show right logo */
@@ -106,4 +106,3 @@ a,
 
 .search-header .share-logo {
   background-image: url("./powered_by_share.png"); }
-  
