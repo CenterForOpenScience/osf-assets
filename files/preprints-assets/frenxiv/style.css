@@ -46,7 +46,7 @@ a,
 #preprint-form-subjects ul li.selected,
 #preprint-form-subjects ul li:active {
   background-color: #ad4545;
-  color: #000000; }
+  color: #ffffff; }
 
 #preprint-form-subjects .subject:hover,
 #preprint-form-subjects .subject:hover > .fa,
@@ -106,3 +106,4 @@ a,
 
 .search-header .share-logo {
   background-image: url("./powered_by_share.png"); }
+  
