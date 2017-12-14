@@ -23,7 +23,7 @@ a,
 .preprint-navbar a:hover,
 .preprint-navbar button:hover
 {
-    color: #000000; }
+    color: #ffffff; }
 
 .preprint-navbar a.navbar-brand {
   color: #ffffff; }
@@ -46,7 +46,7 @@ a,
 #preprint-form-subjects ul li.selected,
 #preprint-form-subjects ul li:active {
   background-color: #ad4545;
-  color: #000000; }
+  color: #ffffff; }
 
 #preprint-form-subjects .subject:hover,
 #preprint-form-subjects .subject:hover > .fa,
