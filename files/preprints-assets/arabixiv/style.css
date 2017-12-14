@@ -13,7 +13,7 @@ a,
 .preprint-navbar,
 .preprint-navbar .nav > li > a.active {
   background-color: #1f7a5a;
-  color: #000000; }
+  color: #ffffff; }
 
 .preprint-navbar .navbar-toggle .icon-bar {
   background-color: #000000; }
@@ -46,7 +46,7 @@ a,
 #preprint-form-subjects ul li.selected,
 #preprint-form-subjects ul li:active {
   background-color: #1f7a5a;
-  color: #000000; }
+  color: #ffffff; }
 
 #preprint-form-subjects .subject:hover,
 #preprint-form-subjects .subject:hover > .fa,
@@ -70,7 +70,7 @@ a,
   color: #ffffff; }
 
 .subject-item > .btn-primary {
-  color: #000000;
+  color: #ffffff;
   background-color: #1f7a5a;
   border-color: #ffffff; }
 
