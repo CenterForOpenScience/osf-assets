@@ -13,7 +13,7 @@ a,
 .preprint-navbar,
 .preprint-navbar .nav > li > a.active {
   background-color: #ad4545;
-  color: #000000; }
+  color: #ffffff; }
 
 .preprint-navbar .navbar-toggle .icon-bar {
   background-color: #000000; }
@@ -70,7 +70,7 @@ a,
   color: #ffffff; }
 
 .subject-item > .btn-primary {
-  color: #000000;
+  color: #ffffff;
   background-color: #ad4545;
   border-color: #e4ede8; }
 
