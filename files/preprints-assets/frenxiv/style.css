@@ -39,7 +39,7 @@ a,
 .preprint-navbar .nav > li.open > a:focus:not(.active):hover,
 .preprint-navbar .nav > li > a:focus:not(.active):hover {
   background-color: #ffffff;
-  color: e4ede8; }
+  color: #ef3641; }
 
 #preprint-form-subjects .subject,
 #preprint-form-subjects .subject > .fa,
