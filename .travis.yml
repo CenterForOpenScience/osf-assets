@@ -2,6 +2,9 @@ cache:
   directories:
   - "$HOME/google-cloud-sdk/"
 before_install:
+# Make sure stdout is in blocking mode. Otherwise builds will fail due to large writes to stdout
+# See: https://github.com/travis-ci/travis-ci/issues/4704. If this gets fixed, this line can be removed.
+- python3 -c 'import os,sys,fcntl; flags = fcntl.fcntl(sys.stdout, fcntl.F_GETFL); fcntl.fcntl(sys.stdout, fcntl.F_SETFL, flags&~os.O_NONBLOCK);'
 - openssl aes-256-cbc -K $encrypted_866c48c033f1_key -iv $encrypted_866c48c033f1_iv
   -in credentials.tar.gz.enc -out credentials.tar.gz -d
 - gcloud version || true
@@ -10,9 +13,5 @@ before_install:
 - source /home/travis/google-cloud-sdk/path.bash.inc
 - tar -xzf credentials.tar.gz
 - gcloud auth activate-service-account --key-file client-secret.json
-before_script:
-  # Make sure stdout is in blocking mode. Otherwise builds will fail due to large writes to stdout
-  # See: https://github.com/travis-ci/travis-ci/issues/4704. If this gets fixed, this line can be removed.
-  - python3 -c 'import os,sys,fcntl; flags = fcntl.fcntl(sys.stdout, fcntl.F_GETFL); fcntl.fcntl(sys.stdout, fcntl.F_SETFL, flags&~os.O_NONBLOCK);'
 script:
 - gsutil rsync -d -r files gs://io-osf-staging-static
