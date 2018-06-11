@@ -23,7 +23,7 @@ a,
 .preprint-navbar a:hover,
 .preprint-navbar button:hover
 {
-    color: #c1231a; }
+    color: #ffffff; }
 
 .preprint-navbar a.navbar-brand {
   color: #ffffff; }
@@ -70,7 +70,7 @@ a,
   color: #ffffff; }
 
 .subject-item > .btn-primary {
-  color: #c1231a;
+  color: #ffffff;
   background-color: #721a0e;
   border-color: #fec216; }
 
