@@ -1,36 +1,36 @@
 a,
 .preprint-form-section header {
-  color: #263947; }
+  color: #721a0e; }
 
 .preprint-header {
-  background-color: #337ab7;
-  color: #FFF;
+  background-color: #fec216;
+  color: #c1231a;
 }
   .preprint-header a:not(.btn) {
-    color: #FFF; }
+    color: #c1231a; }
 
 
 .preprint-navbar,
 .preprint-navbar .nav > li > a.active {
-  background-color: #263947;
-  color: #FFF; }
+  background-color: #721a0e;
+  color: #c1231a; }
 
 .preprint-navbar .navbar-toggle .icon-bar {
-  background-color: #FFF; }
+  background-color: #c1231a; }
 
 .preprint-navbar a,
 .preprint-navbar button,
 .preprint-navbar a:hover,
 .preprint-navbar button:hover
 {
-    color: #FFF; }
+    color: #c1231a; }
 
 .preprint-navbar a.navbar-brand {
   color: #ffffff; }
 
 .preprint-navbar .navbar-brand:hover,
 .preprint-navbar .nav > li > a:hover {
-  background-color: #263947;
+  background-color: #721a0e;
 }
 
 .preprint-navbar .nav > li.open,
@@ -45,54 +45,54 @@ a,
 #preprint-form-subjects .subject > .fa,
 #preprint-form-subjects ul li.selected,
 #preprint-form-subjects ul li:active {
-  background-color: #263947;
-  color: #FFF; }
+  background-color: #721a0e;
+  color: #c1231a; }
 
 #preprint-form-subjects .subject:hover,
 #preprint-form-subjects .subject:hover > .fa,
 #preprint-form-subjects ul li:hover {
-  background-color: #337ab7;
-  color: #FFF; }
+  background-color: #fec216;
+  color: #c1231a; }
 
 #preprint-form-subjects .subject b:after {
-  border-left-color: #263947; }
+  border-left-color: #721a0e; }
 
 #preprint-form-subjects .subject:hover > b:after {
-  border-left-color: #337ab7; }
+  border-left-color: #fec216; }
 
 #preprint-form-subjects .subject .right-arrow:before {
-  border-left: 1.4rem solid #263947; }
+  border-left: 1.4rem solid #721a0e; }
 
 #preprint-form-subjects .subject:hover .right-arrow:before {
-  border-left-color: #337ab7; }
+  border-left-color: #fec216; }
 
 .dropdown-menu > li > a:hover {
   color: #ffffff; }
 
 .subject-item > .btn-primary {
-  color: #FFF;
-  background-color: #263947;
-  border-color: #337ab7; }
+  color: #c1231a;
+  background-color: #721a0e;
+  border-color: #fec216; }
 
 .subject-item > .btn-primary:hover {
-  background-color: #337ab7;
-  border-color: #263947; }
+  background-color: #fec216;
+  border-color: #721a0e; }
 
 .preprint-filter,
 .preprint-filter .fa {
-  color: #FFF; }
+  color: #c1231a; }
 
 .preprint-error-page,
 .preprint-advisory,
 .preprint-submit-header,
 .search-header,
 .provider-filter {
-  background: #337ab7;
-  color: #FFF; }
+  background: #fec216;
+  color: #c1231a; }
 
 .subject-filter,
 .subject-filter .fa {
-  background-color: #263947; }
+  background-color: #721a0e; }
 
   .preprint-error-page a:not(.btn),
   .preprint-advisory a:not(.btn) {
