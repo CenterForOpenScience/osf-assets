@@ -1,0 +1,21 @@
+.search-header {
+    background: #0fa2ff;
+}
+
+.navbar {
+    background-color: #578ca2;
+    color: #fff;
+}
+
+.navbar a {
+    color: #fff;
+}
+
+ul.navbar-nav > li > a:hover,
+ul.navbar-nav > li > a:focus {
+    color: #000;
+}
+
+.navbar-image {
+    background-image: url('square_color_no_transparent.png')
+}
