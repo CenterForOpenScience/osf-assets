@@ -1,5 +1,7 @@
-.search-header {
+.search-header,
+.submit-header {
     background: #0fa2ff;
+    color: #fff;
 }
 
 .navbar {
