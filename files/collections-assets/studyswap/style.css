@@ -4,13 +4,19 @@
     color: #fff;
 }
 
-.navbar {
-    background-color: #578ca2;
+.navbar,
+.navbar > .container,
+.navbar-default .navbar-brand {
+    background: #578ca2;
     color: #fff;
 }
 
 .navbar a {
-    color: #fff;
+    color: #fff !important;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff
 }
 
 ul.navbar-nav > li > a:hover,
