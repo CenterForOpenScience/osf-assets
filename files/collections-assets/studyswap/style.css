@@ -23,7 +23,3 @@ ul.navbar-nav > li > a:hover,
 ul.navbar-nav > li > a:focus {
     color: #000;
 }
-
-.navbar-image {
-    background-image: url('square_color_no_transparent.png')
-}
