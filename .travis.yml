@@ -1,3 +1,6 @@
+branches:
+  only:
+  - master
 cache:
   directories:
   - "$HOME/google-cloud-sdk/"
