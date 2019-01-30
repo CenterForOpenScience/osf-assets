@@ -38,8 +38,8 @@ a,
 .preprint-navbar .nav > li.open > a:hover,
 .preprint-navbar .nav > li.open > a:focus:not(.active):hover,
 .preprint-navbar .nav > li > a:focus:not(.active):hover {
-  background-color: #ffffff;
-  color: #ffffff; }
+  background-color: #a3b1d4f2;
+  color: #000000; }
 
 #preprint-form-subjects .subject,
 #preprint-form-subjects .subject > .fa,
@@ -51,7 +51,7 @@ a,
 #preprint-form-subjects .subject:hover,
 #preprint-form-subjects .subject:hover > .fa,
 #preprint-form-subjects ul li:hover {
-  background-color: #3f658c;
+  background-color: #a3b1d4f2;
   color: #ffffff; }
 
 #preprint-form-subjects .subject b:after {
@@ -67,12 +67,12 @@ a,
   border-left-color: #3f658c; }
 
 .dropdown-menu > li > a:hover {
-  color: #ffffff; }
+  color: #a9c6fa; }
 
 .subject-item > .btn-primary {
   color: #ffffff;
   background-color: #2b455f;
-  border-color: #3f658c; }
+  border-color: #3f658c;  }
 
 .subject-item > .btn-primary:hover {
   background-color: #3f658c;
