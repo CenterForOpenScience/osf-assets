@@ -1,6 +1,6 @@
 a,
 .preprint-form-section header {
-  color: #72c2c2; }
+  color: #065a5a; }
 
 .preprint-header {
   background-color: #e8e8e8;
@@ -38,7 +38,7 @@ a,
 .preprint-navbar .nav > li.open > a:hover,
 .preprint-navbar .nav > li.open > a:focus:not(.active):hover,
 .preprint-navbar .nav > li > a:focus:not(.active):hover {
-  background-color: #000000;
+  background-color: #385C5C;
   color: #ffffff; }
 
 #preprint-form-subjects .subject,
@@ -67,7 +67,7 @@ a,
   border-left-color: #e8e8e8; }
 
 .dropdown-menu > li > a:hover {
-  color: #000000; }
+  color: #72c2c2; }
 
 .subject-item > .btn-primary {
   color: #000000;
