@@ -14,7 +14,7 @@ a,
 .preprint-navbar,
 .preprint-navbar .nav > li > a.active {
   background-color: #1C4063;
-  color: black; }
+  color: white; }
 
 .preprint-navbar .navbar-toggle .icon-bar {
   background-color: black; }
@@ -64,7 +64,7 @@ a,
   border-left-color: #e4f3ff; }
 
 .dropdown-menu > li > a:hover {
-  color: #e4f3ff; }
+  color: #abc6dc; }
 
 .subject-item > .btn-primary {
   color: black;
