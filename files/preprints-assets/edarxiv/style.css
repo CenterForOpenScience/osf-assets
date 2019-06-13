@@ -1,6 +1,6 @@
 a,
 .preprint-form-section header {
-  color: #adadad; }
+  color: #a19f9f; }
 
 .preprint-header {
   background-color: #044871;
@@ -12,7 +12,7 @@ a,
 
 .preprint-navbar,
 .preprint-navbar .nav > li > a.active {
-  background-color: #adadad;
+  background-color: #a19f9f;
   color: #ffffff; }
 
 .preprint-navbar .navbar-toggle .icon-bar {
@@ -30,7 +30,7 @@ a,
 
 .preprint-navbar .navbar-brand:hover,
 .preprint-navbar .nav > li > a:hover {
-  background-color: #adadad;
+  background-color: #a19f9f;
 }
 
 .preprint-navbar .nav > li.open,
@@ -39,13 +39,13 @@ a,
 .preprint-navbar .nav > li.open > a:focus:not(.active):hover,
 .preprint-navbar .nav > li > a:focus:not(.active):hover {
   background-color: #ffffff;
-  color: #adadad; }
+  color: #a19f9f; }
 
 #preprint-form-subjects .subject,
 #preprint-form-subjects .subject > .fa,
 #preprint-form-subjects ul li.selected,
 #preprint-form-subjects ul li:active {
-  background-color: #adadad;
+  background-color: #a19f9f;
   color: #ffffff; }
 
 #preprint-form-subjects .subject:hover,
@@ -55,13 +55,13 @@ a,
   color: #ffffff; }
 
 #preprint-form-subjects .subject b:after {
-  border-left-color: #adadad; }
+  border-left-color: #a19f9f; }
 
 #preprint-form-subjects .subject:hover > b:after {
   border-left-color: #044871; }
 
 #preprint-form-subjects .subject .right-arrow:before {
-  border-left: 1.4rem solid #adadad; }
+  border-left: 1.4rem solid #a19f9f; }
 
 #preprint-form-subjects .subject:hover .right-arrow:before {
   border-left-color: #044871; }
@@ -71,12 +71,12 @@ a,
 
 .subject-item > .btn-primary {
   color: #ffffff;
-  background-color: #adadad;
+  background-color: #a19f9f;
   border-color: #044871; }
 
 .subject-item > .btn-primary:hover {
   background-color: #044871;
-  border-color: #adadad; }
+  border-color: #a19f9f; }
 
 .preprint-filter,
 .preprint-filter .fa {
@@ -92,11 +92,11 @@ a,
 
 .subject-filter,
 .subject-filter .fa {
-  background-color: #adadad; }
+  background-color: #a19f9f; }
 
   .preprint-error-page a:not(.btn),
   .preprint-advisory a:not(.btn) {
-    color: #adadad;
+    color: #a19f9f;
 }
 
 /* This needs to be in every style.css to have discover page show right logo */
