@@ -1,27 +1,8 @@
-#navbarScope {
-  display: none;
-}
-
-.preprint-navbar, .preprint-navbar .nav > li > a.active {
-  background-color: white !important;
-}
-.preprint-navbar a.navbar-brand {
-  color: black !important;
-}
-.preprint-navbar a, .preprint-navbar button, .preprint-navbar a:hover, .preprint-navbar button:hover {
-  color: white !important;
-}
-
-.preprint-header {
-  background-color: white !important;
-  color: black !important;
-}
-
-.preprint-error-page, .preprint-advisory, .preprint-submit-header, .search-header, .provider-filter {
-  background: #011527 !important;
-  color: white !important;
+.btn-success {
+  color: #FFF !important;
+  border: solid 1px #000;
 }
 
 a, .preprint-form-section header {
-  color: black !important;
+  color: white !important;
 }
