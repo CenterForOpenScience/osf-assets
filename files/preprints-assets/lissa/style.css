@@ -3,7 +3,7 @@ a,
   color: #ffa34a ; }
 
 .preprint-header {
-  background-color: #8966a0 ;
+  background-color: #492B5D ;
   color: white;
 }
   .preprint-header a:not(.btn) {
@@ -12,7 +12,7 @@ a,
 .preprint-navbar,
 .preprint-navbar .nav > li > a.active {
   background-color: #ffa34a ;
-  color: white; }
+  color: black; }
 
 .preprint-navbar .navbar-toggle .icon-bar {
   background-color: white; }
@@ -41,36 +41,36 @@ a,
 #preprint-form-subjects ul li.selected,
 #preprint-form-subjects ul li:active {
   background-color: #ffa34a ;
-  color: white; }
+  color: black; }
 
 #preprint-form-subjects .subject:hover,
 #preprint-form-subjects .subject:hover > .fa,
 #preprint-form-subjects ul li:hover {
-  background-color: #8966a0;
+  background-color: #492B5D;
   color: white; }
 
 #preprint-form-subjects .subject b:after {
-  border-left-color: #8966a0; }
+  border-left-color: #492B5D; }
 
 #preprint-form-subjects .subject:hover > b:after {
-  border-left-color: #8966a0; }
+  border-left-color: #492B5D; }
 
 #preprint-form-subjects .subject .right-arrow:before {
   border-left: 1.4rem solid #ffa34a; }
 
 #preprint-form-subjects .subject:hover .right-arrow:before {
-  border-left-color: #8966a0; }
+  border-left-color: #492B5D; }
 
 .dropdown-menu > li > a:hover {
-  color: #8966a0; }
+  color: #492B5D; }
 
 .subject-item > .btn-primary {
   color: white;
   background-color: #ffa34a;
-  border-color: #8966a0; }
+  border-color: #492B5D; }
 
 .subject-item > .btn-primary:hover {
-  background-color: #8966a0;
+  background-color: #492B5D;
   border-color: #ffa34a; }
 
 .preprint-filter,
@@ -82,7 +82,7 @@ a,
 .preprint-submit-header,
 .search-header,
 .provider-filter {
-  background: #8966a0;
+  background: #492B5D;
   color: white; }
 
 .subject-filter,
