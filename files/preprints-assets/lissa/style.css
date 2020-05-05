@@ -18,10 +18,10 @@ a,
   background-color: white; }
 
 .preprint-navbar a {
-  color: white; }
+  color: black; }
 
 .preprint-navbar a.navbar-brand {
-  color: #ffffff ; }
+  color: #000 ; }
 
 .preprint-navbar .navbar-brand:hover,
 .preprint-navbar .nav > li > a:hover {
@@ -65,11 +65,12 @@ a,
   color: #492B5D; }
 
 .subject-item > .btn-primary {
-  color: white;
+  color: black;
   background-color: #ffa34a;
   border-color: #492B5D; }
 
 .subject-item > .btn-primary:hover {
+  color: white
   background-color: #492B5D;
   border-color: #ffa34a; }
 
