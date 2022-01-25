@@ -3,8 +3,8 @@ a,
   color: #1a7303; }
 
 .preprint-header {
-  background-color: #4b7ac4;
-  color: #f7f0f0;
+  background-color: #3C6DB9;
+  color: #FFFFFF;
 }
   .preprint-header a:not(.btn) {
     color: #f7f0f0; }
@@ -51,8 +51,8 @@ a,
 #preprint-form-subjects .subject:hover,
 #preprint-form-subjects .subject:hover > .fa,
 #preprint-form-subjects ul li:hover {
-  background-color: #4b7ac4;
-  color: #f7f0f0; }
+  background-color: #3C6DB9;
+  color: #FFFFFF; }
 
 #preprint-form-subjects .subject b:after {
   border-left-color: #1a7303; }
@@ -87,8 +87,8 @@ a,
 .preprint-submit-header,
 .search-header,
 .provider-filter {
-  background: #4b7ac4;
-  color: #f7f0f0; }
+  background: #3C6DB9;
+  color: #FFFFFF; }
 
 .subject-filter,
 .subject-filter .fa {
