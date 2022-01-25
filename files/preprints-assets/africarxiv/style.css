@@ -4,7 +4,7 @@ a,
 
 .preprint-header {
   background-color: #fec216;
-  color: #c1231a;
+  color: #721a0e;
 }
   .preprint-header a:not(.btn) {
     color: #c1231a; }
@@ -52,7 +52,7 @@ a,
 #preprint-form-subjects .subject:hover > .fa,
 #preprint-form-subjects ul li:hover {
   background-color: #fec216;
-  color: #c1231a; }
+  color: #721a0e; }
 
 #preprint-form-subjects .subject b:after {
   border-left-color: #721a0e; }
@@ -88,7 +88,7 @@ a,
 .search-header,
 .provider-filter {
   background: #fec216;
-  color: #c1231a; }
+  color: #721a0e; }
 
 .subject-filter,
 .subject-filter .fa {
