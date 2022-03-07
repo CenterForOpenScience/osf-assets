@@ -3,7 +3,7 @@ a,
   color: #215264; }
 
 .preprint-header {
-  background-color: #e14b5a;
+  background-color: #DB3346;
   color: white;
 }
 
@@ -47,20 +47,20 @@ a,
 #preprint-form-subjects .subject:hover,
 #preprint-form-subjects .subject:hover > .fa,
 #preprint-form-subjects ul li:hover {
-  background-color: #e14b5a;
+  background-color: #DB3346;
   color: white; }
 
 #preprint-form-subjects .subject b:after {
   border-left-color: #215264; }
 
 #preprint-form-subjects .subject:hover > b:after {
-  border-left-color: #e14b5a; }
+  border-left-color: #DB3346; }
 
 #preprint-form-subjects .subject .right-arrow:before {
   border-left: 1.4rem solid #215264; }
 
 #preprint-form-subjects .subject:hover .right-arrow:before {
-  border-left-color: #e14b5a; }
+  border-left-color: #DB3346; }
 
 .dropdown-menu > li > a:hover {
   color: #e14b5a; }
@@ -68,10 +68,10 @@ a,
 .subject-item > .btn-primary {
   color: white;
   background-color: #215264;
-  border-color: #e14b5a; }
+  border-color: #DB3346; }
 
 .subject-item > .btn-primary:hover {
-  background-color: #e14b5a;
+  background-color: #DB3346;
   border-color: #215264; }
 
 .preprint-filter,
@@ -83,7 +83,7 @@ a,
 .preprint-submit-header,
 .search-header,
 .provider-filter {
-  background: #e14b5a;
+  background: #DB3346;
   color: white; }
 
 .subject-filter,
@@ -92,7 +92,7 @@ a,
 
   .preprint-error-page a:not(.btn),
   .preprint-advisory a:not(.btn) {
-    color: #103749;
+    color: #000000;
 }
 
 /* This needs to be in every style.css to have discover page show right logo */
