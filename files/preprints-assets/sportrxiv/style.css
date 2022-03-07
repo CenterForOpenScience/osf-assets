@@ -3,7 +3,7 @@ a,
   color: #2B5163 ; }
 
 .preprint-header {
-  background-color: #8dbd7d ;
+  background-color: #4D7D40 ;
   color: #fff;
 }
   .preprint-header a:not(.btn) {
@@ -46,23 +46,23 @@ a,
 #preprint-form-subjects .subject:hover,
 #preprint-form-subjects .subject:hover > .fa,
 #preprint-form-subjects ul li:hover {
-  background-color: #8dbd7d;
+  background-color: #4D7D40;
   color: #fff; }
 
 #preprint-form-subjects .subject b:after {
   border-left-color: #2B5163; }
 
 #preprint-form-subjects .subject:hover > b:after {
-  border-left-color: #8dbd7d; }
+  border-left-color: #4D7D40; }
 
 #preprint-form-subjects .subject .right-arrow:before {
   border-left: 1.4rem solid #2B5163; }
 
 #preprint-form-subjects .subject:hover .right-arrow:before {
-  border-left-color: #8dbd7d; }
+  border-left-color: #4D7D40; }
 
 .dropdown-menu > li > a:hover {
-  color: #8dbd7d; }
+  color: #4D7D40; }
 
 .subject-item > .btn-primary {
   color:#fff;
@@ -70,7 +70,7 @@ a,
   border-color: #8dbd7d; }
 
 .subject-item > .btn-primary:hover {
-  background-color: #8dbd7d ;
+  background-color: #4D7D40 ;
   border-color: #2B5163; }
 
 .preprint-filter,
@@ -82,12 +82,12 @@ a,
 .preprint-submit-header,
 .search-header,
 .provider-filter {
-  background: #8dbd7d;
+  background: #4D7D40;
   color: #fff; }
 
 .subject-filter,
 .subject-filter .fa {
-  background-color: #8dbd7d; }
+  background-color: #4D7D40; }
 
   .preprint-error-page a:not(.btn),
   .preprint-advisory a:not(.btn) {
