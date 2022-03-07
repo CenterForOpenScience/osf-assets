@@ -5,7 +5,7 @@ a,
 
 .preprint-header {
   background-color: #94918e ;
-  color: white;
+  color: #000000;
 }
   .preprint-header a:not(.btn) {
     color: white; }
@@ -48,7 +48,7 @@ a,
 #preprint-form-subjects .subject:hover > .fa,
 #preprint-form-subjects ul li:hover {
   background-color: #94918e;
-  color: white; }
+  color: #000000; }
 
 #preprint-form-subjects .subject b:after {
   border-left-color: #94918e; }
