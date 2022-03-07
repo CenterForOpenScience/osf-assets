@@ -1,7 +1,7 @@
 
 a,
 .preprint-form-section header {
-  color: #008080 ; }
+  color: #00ADAD ; }
 
 .preprint-header {
   background-color: #e6ffff ;
@@ -13,7 +13,7 @@ a,
 
 .preprint-navbar,
 .preprint-navbar .nav > li > a.active {
-  background-color: #008080 ;
+  background-color: #00ADAD ;
   color: black; }
 
 .preprint-navbar .navbar-toggle .icon-bar {
@@ -31,7 +31,7 @@ a,
 
 .preprint-navbar .navbar-brand:hover,
 .preprint-navbar .nav > li > a:hover {
-  background-color: #008080 ;
+  background-color: #00ADAD ;
 }
 
 .preprint-navbar .nav > li.open,
@@ -46,7 +46,7 @@ a,
 #preprint-form-subjects .subject > .fa,
 #preprint-form-subjects ul li.selected,
 #preprint-form-subjects ul li:active {
-  background-color: #008080 ;
+  background-color: #00ADAD ;
   color: black; }
 
 #preprint-form-subjects .subject:hover,
@@ -62,7 +62,7 @@ a,
   border-left-color: #e6ffff; }
 
 #preprint-form-subjects .subject .right-arrow:before {
-  border-left: 1.4rem solid #008080; }
+  border-left: 1.4rem solid #00ADAD; }
 
 #preprint-form-subjects .subject:hover .right-arrow:before {
   border-left-color: #e6ffff; }
@@ -72,12 +72,12 @@ a,
 
 .subject-item > .btn-primary {
   color: black;
-  background-color: #008080;
+  background-color: #00ADAD;
   border-color: #e6ffff; }
 
 .subject-item > .btn-primary:hover {
   background-color: #e6ffff;
-  border-color: #008080; }
+  border-color: #00ADAD; }
 
 .preprint-filter,
 .preprint-filter .fa {
@@ -93,11 +93,11 @@ a,
 
 .subject-filter,
 .subject-filter .fa {
-  background-color: #008080; }
+  background-color: #00ADAD; }
 
   .preprint-error-page a:not(.btn),
   .preprint-advisory a:not(.btn) {
-    color: #008080;
+    color: #00ADAD;
 }
 
 /* This needs to be in every style.css to have discover page show right logo */
