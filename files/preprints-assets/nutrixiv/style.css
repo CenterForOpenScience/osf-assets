@@ -1,10 +1,10 @@
 a,
 .preprint-form-section header {
-  color: #808080; }
+  color: #4a4a4a; }
 
 .preprint-header {
-  background-color: #808080;
-  color: #000000;
+  background-color: #4a4a4a;
+  color: #ffffff;
 }
   .preprint-header a:not(.btn) {
     color: 000000; }
@@ -70,7 +70,7 @@ a,
   border-color: #808080; }
 
 .subject-item > .btn-primary:hover {
-  background-color: #808080;
+  background-color: #ccc;
   border-color: #FFFFFF; }
 
 .preprint-filter,
