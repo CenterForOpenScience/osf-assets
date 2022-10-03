@@ -38,7 +38,7 @@ a,
 .preprint-navbar .nav > li.open > a:hover,
 .preprint-navbar .nav > li.open > a:focus:not(.active):hover,
 .preprint-navbar .nav > li > a:focus:not(.active):hover {
-  background-color: #ffffff;
+  background-color: #046bba;
   color: #ffffff; }
 
 #preprint-form-subjects .subject,
