@@ -1,18 +1,18 @@
 a,
 .preprint-form-section header {
-  color: #ffffff; }
+  color: #000000; }
 
 .preprint-header {
   background-color: #ffffff;
   color: #000000;
 }
   .preprint-header a:not(.btn) {
-    color: #ffffff; }
+    color: #000000; }
 
 
 .preprint-navbar,
 .preprint-navbar .nav > li > a.active {
-  background-color: #ffffff;
+  background-color: #000000;
   color: #000000; }
 
 .preprint-navbar .navbar-toggle .icon-bar {
@@ -70,8 +70,8 @@ a,
   color: #ffffff; }
 
 .subject-item > .btn-primary {
-  color: #ffffff;
-  background-color: #003e6d;
+  color: #000000;
+  background-color: #ffffff;
   border-color: #337ab7; }
 
 .subject-item > .btn-primary:hover {
