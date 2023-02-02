@@ -2,7 +2,7 @@ a,
 .preprint-form-section header {
   color: #000000; }
 
-.preprint-header {
+.preprint-header, .search-header {
   background-color: #ffffff;
   color: #000000;
 }
@@ -85,7 +85,6 @@ a,
 .preprint-error-page,
 .preprint-advisory,
 .preprint-submit-header,
-.search-header,
 .provider-filter {
   background: #337ab7;
   color: #ffffff; }
@@ -98,6 +97,16 @@ a,
   .preprint-advisory a:not(.btn) {
     color: #ffffff;
 }
+
+.preprint-header .provider-brand {
+    height: 250px;
+    background-size: 500px;
+}
+
+div#provider-brand-background.provider-brand {
+    height: 250px;
+}
+
 
 /* This needs to be in every style.css to have discover page show right logo */
 .provider-brand {
