@@ -99,12 +99,12 @@ a,
 }
 
 .preprint-header .provider-brand {
-    height: 250px;
-    background-size: 300px;
+    height: 150px;
+    background-size: 200px;
 }
 
 div#provider-brand-background.provider-brand {
-    height: 250px;
+    height: 200px;
 }
 
 
